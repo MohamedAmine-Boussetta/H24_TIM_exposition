@@ -17,14 +17,15 @@
 - le lien de chacun avec le thème *Crescentia*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
+- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
 De plus, vous devrez :
 - identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
 - présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
   
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-- ordonner les projets selon votre préférence actuelle, soit avant l'expérimentation (1 = votre projet préféré), avec justification
-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+- ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
 
@@ -34,7 +35,7 @@ Voir ** dans le dossier *consigne*
 La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
 
 
-LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET DARYL HUBERT
+LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
 
 ### MISE EN CONTEXTE
 > Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
