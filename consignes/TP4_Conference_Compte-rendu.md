@@ -2,9 +2,9 @@
 
 *Mardi 16 avril 2024 - 12h30-14h00 - Salle Claude Legault (B1346)*
 
-### Karine Charbonneau, cheffe des expositions et registraire, [Studio Antimodular (Rafael Lozano-Hemmer)](https://www.lozano-hemmer.com/)
+### Jade Séguela, registraire, [Studio Antimodular (Rafael Lozano-Hemmer)](https://www.lozano-hemmer.com/)
 
-Karine Charbonneau vous présentera la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique, Rafael Lozano-Hemmer)
+Jade Séguéla vous présentera la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique, Rafael Lozano-Hemmer)
 
 # Ce qui est attendu 
 Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté. 
@@ -13,7 +13,7 @@ Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conféren
 
 Le compte-rendu doit avoir un **titre**. Le propos doit être bien structuré (en **paragraphes**) avec une **introduction** qui présente l'intervenant.e et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le **développement**. Enfin, votre **conclusion** partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification. Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu. 
 
-Dans votre répertoire V11_Banque_inspirations/, il vous faudra créer un dossier Conférence et une fiche_rencontre_K_CHARBONNEAU.md  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix tirée du site web de l'artiste en identifiant bien la source.
+Dans votre répertoire V11_Banque_inspirations/, il vous faudra créer un dossier Conférence et une fiche_rencontre_J_SEGUELA.md  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix tirée du site web de l'artiste en identifiant bien la source.
 
 Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote avant de le remettre.
 
